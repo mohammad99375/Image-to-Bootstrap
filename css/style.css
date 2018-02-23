@@ -1,0 +1,129 @@
+.img-responsive{
+    width: 100% !important;
+}
+
+header{
+    background-color: #F7F9F4;
+}
+.logo span{
+    font-size: 12px;
+    font-weight: 100;
+    padding-left: 10px;
+}
+
+.social_media{
+    padding-top: 20px;
+    padding-right: 10px;
+}
+
+nav{
+    background-color: #68BFAE;
+}
+.navbar{
+    margin: 10px auto;
+    background-color: #68bfae;
+    border: none;
+}
+.navbar-default .navbar-nav .active a{
+    background-color: #68BFAE;
+    color: white;
+}
+.navbar-default .navbar-nav .active a:hover{
+    background-color: #68BFAE;
+    color: white;
+    font-weight: bold;
+}
+.navbar-default .navbar-nav li a{
+    color: white;
+}
+.navbar-default .navbar-nav li a:hover{
+    font-weight: bold;
+    color: white;
+}
+
+#slider{
+    min-height: 200px;
+    padding-top: 10px;
+}
+
+.title h1{
+    font-size: 23px;
+    color: black;
+}
+
+.feature{
+    margin-top: 20px;
+    background-color: #EAEAEA;
+}
+.feature_add h2{
+    font-size: 23px;
+}
+.button_content{
+    padding-top: 30px;
+}
+.button_content button{
+    padding: 10px 25px;
+    font-size: 20px;
+}
+
+.single_image{
+    padding-top: 10px;
+}
+.plot_image img{
+    width: 100%;
+}
+
+.book-bg{
+    background-image: url(../images/book-bg.jpg);
+    min-height: 180px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.book_content{
+    padding: 0px 10px;
+    text-align: justify;
+}
+.more_info{
+    padding-right: 10px;
+    padding-top: 20px;
+}
+.btn{
+    background-color: #47AF96;
+}
+.footer_top{
+    background-color: #272729;
+    padding: 20px 0px;
+}
+
+.title{
+    color: white;
+}
+.description p{
+    font-size: 11px;
+    color: white;
+    padding-right: 30px;
+    padding-top: 5px;
+    text-align: justify;
+}
+.all_links{}
+.all_links ul{
+    padding-left: 0px;
+}
+
+.all_links ul li{
+    list-style: none;
+}
+.all_links ul li a{
+    color: #47AF96;
+}
+
+.footer_bottom{
+    background-color: black;
+    min-height: 60px;
+    color: white;
+}
+
+.copyright p{
+    text-align: center;
+    padding-top: 20px;
+}
